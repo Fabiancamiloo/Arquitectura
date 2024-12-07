@@ -1,0 +1,14 @@
+D:\Projects\Arquictectura\HelloWorldOld\bin\Debug\net7.0\HelloWorldOld.exe
+D:\Projects\Arquictectura\HelloWorldOld\bin\Debug\net7.0\HelloWorldOld.deps.json
+D:\Projects\Arquictectura\HelloWorldOld\bin\Debug\net7.0\HelloWorldOld.runtimeconfig.json
+D:\Projects\Arquictectura\HelloWorldOld\bin\Debug\net7.0\HelloWorldOld.dll
+D:\Projects\Arquictectura\HelloWorldOld\bin\Debug\net7.0\HelloWorldOld.pdb
+D:\Projects\Arquictectura\HelloWorldOld\obj\Debug\net7.0\HelloWorldOld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Arquictectura\HelloWorldOld\obj\Debug\net7.0\HelloWorldOld.AssemblyInfoInputs.cache
+D:\Projects\Arquictectura\HelloWorldOld\obj\Debug\net7.0\HelloWorldOld.AssemblyInfo.cs
+D:\Projects\Arquictectura\HelloWorldOld\obj\Debug\net7.0\HelloWorldOld.csproj.CoreCompileInputs.cache
+D:\Projects\Arquictectura\HelloWorldOld\obj\Debug\net7.0\HelloWorldOld.dll
+D:\Projects\Arquictectura\HelloWorldOld\obj\Debug\net7.0\refint\HelloWorldOld.dll
+D:\Projects\Arquictectura\HelloWorldOld\obj\Debug\net7.0\HelloWorldOld.pdb
+D:\Projects\Arquictectura\HelloWorldOld\obj\Debug\net7.0\HelloWorldOld.genruntimeconfig.cache
+D:\Projects\Arquictectura\HelloWorldOld\obj\Debug\net7.0\ref\HelloWorldOld.dll
