@@ -1,0 +1,14 @@
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
