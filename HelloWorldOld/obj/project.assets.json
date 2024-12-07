@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Arquictectura\\HellorldOld\\HellorldOld.csproj",
-      "projectName": "HellorldOld",
-      "projectPath": "D:\\Projects\\Arquictectura\\HellorldOld\\HellorldOld.csproj",
+      "projectUniqueName": "D:\\Projects\\Arquictectura\\HelloWorldOld\\HelloWorldOld.csproj",
+      "projectName": "HelloWorldOld",
+      "projectPath": "D:\\Projects\\Arquictectura\\HelloWorldOld\\HelloWorldOld.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Arquictectura\\HellorldOld\\obj\\",
+      "outputPath": "D:\\Projects\\Arquictectura\\HelloWorldOld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
