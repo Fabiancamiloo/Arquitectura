@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "v/f2b3cMKPm5bIXe7nIkOlYTYgltN1k1oDDu1QUfBpVu93erP6NFBu2I3YxDAFy5BCzlZAGWMlPcyYX7XqqcGw==",
+  "dgSpecHash": "a3ivGX+PxE4NB/7EZaM0FIYBHU2UBGUdrCZ9mVaVRV/QxFK/YgWLjf6PPcvbeHWQ/XrjVJJKVD3o6nWDU3bArA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Arquictectura\\Demo01\\MyLibrary\\MyLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\camil\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
   "logs": []
 }

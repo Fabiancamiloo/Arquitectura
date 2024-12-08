@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyLibrary
 {
-    internal class MessageWriter
+    public class MessageWriter
     {
+        public void Write(string message)
+        {
+            Console.WriteLine(message);
+        }
     }
 }

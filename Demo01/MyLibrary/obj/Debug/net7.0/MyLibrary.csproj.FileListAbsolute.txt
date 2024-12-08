@@ -1,0 +1,12 @@
+D:\Projects\Arquictectura\Demo01\MyLibrary\bin\Debug\net7.0\MyLibrary.deps.json
+D:\Projects\Arquictectura\Demo01\MyLibrary\bin\Debug\net7.0\MyLibrary.dll
+D:\Projects\Arquictectura\Demo01\MyLibrary\bin\Debug\net7.0\MyLibrary.pdb
+D:\Projects\Arquictectura\Demo01\MyLibrary\obj\Debug\net7.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Arquictectura\Demo01\MyLibrary\obj\Debug\net7.0\MyLibrary.AssemblyInfoInputs.cache
+D:\Projects\Arquictectura\Demo01\MyLibrary\obj\Debug\net7.0\MyLibrary.AssemblyInfo.cs
+D:\Projects\Arquictectura\Demo01\MyLibrary\obj\Debug\net7.0\MyLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Arquictectura\Demo01\MyLibrary\obj\Debug\net7.0\MyLibrary.dll
+D:\Projects\Arquictectura\Demo01\MyLibrary\obj\Debug\net7.0\refint\MyLibrary.dll
+D:\Projects\Arquictectura\Demo01\MyLibrary\obj\Debug\net7.0\MyLibrary.pdb
+D:\Projects\Arquictectura\Demo01\MyLibrary\obj\Debug\net7.0\ref\MyLibrary.dll
+D:\Projects\Arquictectura\Demo01\MyLibrary\obj\Debug\net7.0\MyLibrary.csproj.AssemblyReference.cache

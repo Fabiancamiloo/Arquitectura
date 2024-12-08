@@ -1,11 +1,61 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Figgle/0.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Figgle.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Figgle.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MyLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Figgle": "0.5.1"
+        },
+        "compile": {
+          "bin/placeholder/MyLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Figgle/0.5.1": {
+      "sha512": "F21k9oOGRgSb+1dCX0kFDYRBbShSMFvL49xjNmF/dsJwiN5M7zBaSWsYKpi/KZWXVIIxNzTbNTq9ZciucaHYMQ==",
+      "type": "package",
+      "path": "figgle/0.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "figgle.0.5.1.nupkg.sha512",
+        "figgle.nuspec",
+        "lib/netstandard2.0/Figgle.dll",
+        "lib/netstandard2.0/Figgle.xml",
+        "logo-square-256px.png"
+      ]
+    },
+    "MyLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MyLibrary/MyLibrary.csproj",
+      "msbuildProject": "../MyLibrary/MyLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "MyLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\camil\\.nuget\\packages\\": {}
@@ -33,7 +83,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\Arquictectura\\Demo01\\MyLibrary\\MyLibrary.csproj": {
+              "projectPath": "D:\\Projects\\Arquictectura\\Demo01\\MyLibrary\\MyLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

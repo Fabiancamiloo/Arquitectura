@@ -12,3 +12,8 @@ D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleA
 D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
 D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
 D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\bin\Debug\net7.0\MyLibrary.dll
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\bin\Debug\net7.0\MyLibrary.pdb
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CopyComplete
+D:\Projects\Arquictectura\Demo01\MyConsoleApp\bin\Debug\net7.0\Figgle.dll
