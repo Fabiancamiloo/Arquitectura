@@ -5,6 +5,7 @@ Maria.Name = "Maria";
 Manager Pedro = new Manager();
 Pedro.Name = "Pedro";
 Developer Miguel = new Developer();
+Console.WriteLine($"Dias: {Miguel.GetPaymentDays()}");
 
 WriteEmployeeInfo(Maria);
 WriteEmployeeInfo(Pedro);
