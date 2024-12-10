@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NorthWind.Entities.ValueObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,5 @@ namespace NorthWind.Entities.Interfaces;
 
 public interface IUserActionWriter
 {
-    void Write(userAction  action);
+    void Write(UserAction action);
 }
