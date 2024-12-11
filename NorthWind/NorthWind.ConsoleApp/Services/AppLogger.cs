@@ -1,19 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NorthWind.Entities.Interfces;
-using NorthWind.Entities.ValueObjects;
+﻿namespace NorthWind.ConsoleApp.Services;
 
-namespace NorthWind.ConsoleApp.Services;
-
-internal class AppLogger(IUserActionWriter writer)
+internal class AppLogger(IEnumerable<IUserActionWriter> writers)
 {
     public void Writelog(string message)
     {
         UserAction Log = new UserAction("System", message);
-        writer.Write(Log);
+        foreach(var Writer in writers)
+        Writer.Write(Log);
     }
 }
- 

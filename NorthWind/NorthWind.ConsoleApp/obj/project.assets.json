@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "NorthWind.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "NorthWind.Writers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NorthWind.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthWind.IoC.dll": {}
+        }
+      },
+      "NorthWind.Writers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/NorthWind.Writers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthWind.Writers.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NorthWind.IoC/1.0.0": {
+      "type": "project",
+      "path": "../NorthWind.IoC/NorthWind.IoC.csproj",
+      "msbuildProject": "../NorthWind.IoC/NorthWind.IoC.csproj"
+    },
+    "NorthWind.Writers/1.0.0": {
+      "type": "project",
+      "path": "../NorthWind.Writers/NorthWind.Writers.csproj",
+      "msbuildProject": "../NorthWind.Writers/NorthWind.Writers.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "NorthWind.IoC >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\camil\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\Arquictectura\\NorthWind\\NorthWind.IoC\\NorthWind.IoC.csproj": {
+              "projectPath": "D:\\Projects\\Arquictectura\\NorthWind\\NorthWind.IoC\\NorthWind.IoC.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
